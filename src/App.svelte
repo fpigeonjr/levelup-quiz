@@ -4,7 +4,9 @@
 
 <main>
 	<h1>Hello World</h1>
-	<Quiz />
+	<Quiz quizName="New Quiz" />
+	<Quiz quizName="Frank Quiz" />
+
 </main>
 
 
