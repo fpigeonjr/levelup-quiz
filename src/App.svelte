@@ -1,12 +1,8 @@
 <script>
-	import Quiz from "./Quiz.svelte";
+  import Quiz from './Quiz.svelte'
 </script>
 
 <main>
-	<h1>Hello World</h1>
-	<Quiz quizName="New Quiz" />
-	<Quiz quizName="Frank Quiz" />
-
+  <h1>Hello World</h1>
+  <Quiz quizName="New Quiz" />
 </main>
-
-
