@@ -36,3 +36,10 @@
     >
   {/each}
 </div>
+
+<style>
+  /* scoped by default */
+  h4 {
+    color: red;
+  }
+</style>

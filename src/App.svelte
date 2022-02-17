@@ -6,3 +6,9 @@
   <h1>Hello World</h1>
   <Quiz quizName="New Quiz" />
 </main>
+
+<style>
+  :global(h1) {
+    color: green;
+  }
+</style>
