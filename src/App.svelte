@@ -3,12 +3,12 @@
 </script>
 
 <main>
-  <h1>Hello World</h1>
-  <Quiz quizName="New Quiz" />
+  <h1>Level Up Video Games</h1>
+  <Quiz />
 </main>
 
 <style>
-  :global(h1) {
+  h1 {
     color: green;
   }
 </style>
